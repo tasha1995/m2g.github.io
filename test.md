@@ -1,5 +1,25 @@
-  ###### Things to test out with Markdown:
-  1. Italics can be done two ways. With *asterisks* and with _underscores_.
-  2. Bold can also be done two ways; **asterisks** and with __underscores__. I guess it depends on preference.
-  3. these ways of emphasis can be combined by just utilising both asterisks and _underscores_**.
-  4. ~~You can also ommit things using tildes.~~
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>test.md</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h6 id="things-to-test-out-with-markdown">Things to test out with Markdown:</h6>
+<ol>
+<li>Italics can be done two ways. With <em>asterisks</em> and with <em>underscores</em>.</li>
+<li>Bold can also be done two ways; <strong>asterisks</strong> and with <strong>underscores</strong>. I guess it depends on preference.</li>
+<li>these ways of emphasis can be combined by just utilising both asterisks and <em>underscores</em>**.</li>
+<li><s>You can also omit things using tildes.</s></li>
+</ol>
+</div>
+</body>
+
+</html>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTQ4MDMzNzY3XX0=
+-->
